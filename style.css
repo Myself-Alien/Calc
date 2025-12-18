@@ -1,0 +1,49 @@
+/* Window background */
+window {
+  background-color: #005461;
+}
+
+/* Display */
+entry {
+  font-size: 28px;
+  padding: 30px;
+  background-color: #000000;
+  color: #fff;
+  border-radius: 6px 6px 6px 6px;
+  margin: 8px 8px 8px 8px;
+  border-color: #00ADB5;
+}
+
+/* All buttons */
+button.calc-btn{
+  font-size: 20px;
+  padding: 20px;
+  color: #000;
+  border-radius: 8px;
+  margin-left: 9px;
+  background-color: #00ADB5;
+  background-image: none;
+}
+.calc-btn:hover {
+    background-color: #FFB76C;
+}
+
+.op-btn {
+    background-color: #99d20a;
+}
+
+.op-btn:hover {
+    background-color: #81a1c1;
+}
+
+/* Operator buttons */
+button.operator {
+  background-color: #ff9800;
+  color: #000000;
+}
+
+/* Equal button */
+button.equal {
+  background-color: #4caf50;
+  color: white;
+}
