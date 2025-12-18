@@ -1,11 +1,8 @@
-GTK-4 Calculator (C)
-
+<h4>GTK-4 Calculator (C)</h4>
 A simple desktop calculator application built using GTK-4 and C, designed to demonstrate modern GTK-4 UI concepts such as grid layouts, signal handling, CSS styling, and application lifecycle management.
-
 This project was created as a learning-oriented implementation, focusing on correct GTK-4 practices rather than legacy GTK-3 patterns.
 
 Features
-
 GTK-4 based graphical user interface
 
 Grid-based calculator layout
