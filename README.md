@@ -19,16 +19,6 @@ CSS (GTK-4 styling system)
 pkg-config
 Make
 
-<h3>Project Structure</h3>
-Calc/
-├── src/
-│   └── main.c        # Application logic and UI
-├── style.css         # GTK-4 CSS styling
-├── Makefile          # Build instructions
-├── compile_commands.json
-└── README.md
-
-
 <h3>License</h3>
 MIT License — free to use, modify, and learn from.
 
